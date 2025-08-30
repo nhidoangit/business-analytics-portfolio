@@ -2,6 +2,14 @@
 _Project Overview:_
 Led a team of four to design and implement a comprehensive **relational database system** for Chocolate Nation's expansion into Australia. The project involved **analyzing complex business operations**—including event bookings, tasting experiences, inventory management, and subscription services—and **translating them into a scalable, normalized data model**. This system **centralizes data to drive operational efficiency, enhance visitor experience, and provide actionable business insights.**
 
+_Business Impact:_
+
+The designed database provides a single source of truth for Chocolate Nation's Australian operations, enabling:
+
+* **Streamlined booking** and **reservation processes**.
+* **Efficient management** of events, inventory, and supplier relationships.
+* **Data-driven decision-making through analytical querying** (e.g., identifying popular products, tracking customer satisfaction trends).
+
 _Key Responsibilities & Role:_
 * **Project Lead:** Managed project timelines, delegated tasks, and ensured the final deliverable was polished and met all specifications.
 * **Business Analyst:** Translated vague business requirements into clear technical specifications and data models.
@@ -39,11 +47,4 @@ _Project Deliverables:_
     * Multi-table joins to **analyze customer review patterns.**
     * Aggregate functions with **GROUP BY** to **calculate average monthly review** ratings, providing a **key performance indicator (KPI) for customer satisfaction**.
    
-_Business Impact:_
-
-The designed database provides a single source of truth for Chocolate Nation's Australian operations, enabling:
-
-* **Streamlined booking** and **reservation processes**.
-* **Efficient management** of events, inventory, and supplier relationships.
-* **Data-driven decision-making through analytical querying** (e.g., identifying popular products, tracking customer satisfaction trends).
 
