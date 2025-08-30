@@ -26,11 +26,11 @@ _Project Deliverables:_
   * **Mapped complex relationships with precise cardinality** (e.g., A Reservation involves one Visitor and three Demonstrators).
   * **Visual:** ![Alt text](EDdiagram.png)
 
-**2. Logical Data Model** ([Logical Transformation](Project1/LogicalTransformation.md) for details):
+**2. Logical Data Model** ([Logical Transformation](LogicalTransformation.md) for details):
   * Transformed the ERD into a detailed **logical model** with a complete set of tables, attributes, and keys.
   * Implemented **solutions for multi-valued attributes** (EmployeeQualifications, ResDietPref) and associative entities (Booking, SourceHistory).
 
-**3. SQL Database Implementation** ([SQL queries](Project1/SQL_queries.md) for details):
+**3. SQL Database Implementation** ([SQL queries](SQL_queries.md) for details):
   * **Schema Creation:** Built the **DDL for the operational database tables**.
   * **Data Population:** Inserted meaningful **sample data into all tables** to test integrity and relationships.
   * **Advanced Queries:** Developed **analytical SQL queries** to derive business value, including:
