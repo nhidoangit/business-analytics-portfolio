@@ -1,11 +1,3 @@
-
--- Group 116
--- 48596965 - Ngoc Minh Anh Nguyen
--- 47927143 - Hong Nhi Doan
--- 48334170 - Nandika Hegde 
--- 48403040 - Aishwarya Muthukumar
-
-
 -- Question-A
 -- Table Creation
 
