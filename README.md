@@ -26,7 +26,7 @@ _Project Deliverables:_
   * Designed to capture all **business entities**: Event, Exhibit, Visitor, Employee, Tasting Experience, Product, Ingredient, Supplier, and Subscription.
   * **Mapped complex relationships with precise cardinality** (e.g., A Reservation involves one Visitor and three Demonstrators).
   * **Visual:** ![Alt text](image/EDdiagram.png)
-2. Logical Data Model (go to [diagram](images/EDdiagram.png):
+2. Logical Data Model (go to [Logical Transformation](Project1/LogicalTransformation) for details):
   * Transformed the ERD into a detailed logical model with a complete set of tables, attributes, and keys.
   * Implemented solutions for multi-valued attributes (EmployeeQualifications, ResDietPref) and associative entities (Booking, SourceHistory).
 3. SQL Database Implementation:
