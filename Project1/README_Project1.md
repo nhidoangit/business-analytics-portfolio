@@ -30,7 +30,7 @@ _Project Deliverables:_
   * Transformed the ERD into a detailed **logical model** with a complete set of tables, attributes, and keys.
   * Implemented **solutions for multi-valued attributes** (EmployeeQualifications, ResDietPref) and associative entities (Booking, SourceHistory).
 
-**3. SQL Database Implementation** ([SQL queries](SQL_queries.md) for details):
+**3. SQL Database Implementation** ([SQL queries](SQL_queries.sql) for details):
   * **Schema Creation:** Built the **DDL for the operational database tables**.
   * **Data Population:** Inserted meaningful **sample data into all tables** to test integrity and relationships.
   * **Advanced Queries:** Developed **analytical SQL queries** to derive business value, including:
