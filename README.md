@@ -29,7 +29,7 @@ Here is a collection of my academic projects that showcase my end-to-end analyti
 | :--- | :--- | :--- |
 | **[Project 1: Database System Design](Project-1-Database-Design/README_Project1.md)** | Led the end-to-end design and implementation of a relational database for a museum's complex operations, including events, exhibits, and inventory management. | `ERD`, `SQL`, `Normalization`, `Project Leadership` |
 | **[Project 2: Predictive Modeling in R](Project-2-Statistical-Modeling/README_Project2.md)** | Performed multiple regression analysis to model real estate prices and used experimental design (ANOVA) to determine the impact of packaging and storage on product freshness. | `R`, `Regression`, `ANOVA`, `Hypothesis Testing` |
-| **[Project 3: Financial Anomaly Detection](Project-3-Fraud-Detection/README_Project3.md)** | Developed a multi-tier Power BI dashboard and statistical analysis to detect **$21.72M** in anomalous spending for a state government, providing actionable insights for auditors. | `Power BI`, `Anomaly Detection`, `Z-Score`, `Data Storytelling` |
+| **[Project 3: Financial Anomaly Detection](Project_3_DataVisualization_and_Analysis/README_Project3.md)** | Developed a multi-tier Power BI dashboard and statistical analysis to detect **$21.72M** in anomalous spending for a state government, providing actionable insights for auditors. | `Power BI`, `Anomaly Detection`, `Z-Score`, `Data Storytelling` |
 | **[Project 4: Business Process Optimization](Project-4-Business-Analysis/README_Project4.md)** | Acted as a business analyst for a non-profit, designing optimized process flows (BPMN) and a database (ERD) to minimize overhead, followed by a strategic analytics roadmap. | `BPMN`, `ERD`, `Strategic Analysis`, `Process Optimization` |
 
 ---
