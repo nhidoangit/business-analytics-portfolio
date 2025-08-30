@@ -1,1 +1,1 @@
-# business-analytics-portfolio
+# Business Analytics Portfolio
