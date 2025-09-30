@@ -1,6 +1,6 @@
 # Hong Nhi Doan | Business Analytics Portfolio
 
-**Data-Driven Problem Solver | Aspiring Business Analyst**
+**Business Analyst | Built Financial Anomaly Detection Model | Data Storytelling & Predictive Modeling | SQL • Power BI • R**
 
 [[LinkedIn]](https://www.linkedin.com/in/doanhongnhi/)
 [[Email]](mailto:nhidoan.ba@gmail.com)
@@ -8,7 +8,11 @@
 
 ## About Me
 
-I am a final-year university student passionate about transforming raw data into actionable business intelligence. My academic projects have equipped me with a strong foundation in **data management**, **statistical analysis**, and **data visualization**. I am proficient in using data to optimize processes, detect anomalies, and drive strategic decision-making. I am eager to apply these skills to solve real-world business problems and am actively seeking an internship in business analytics or a similar role.
+I am passionate about transforming complex data into clear, actionable insights that drive smarter business decisions.
+
+I’ve applied SQL, Power BI, Tableau, R, and Python to solve real-world problems — from detecting $21M in financial anomalies to building predictive models that optimize pricing and strategy. I enjoy combining technical analysis with business acumen to uncover opportunities that improve efficiency, reduce risks, and enhance customer engagement.
+
+Beyond technical skills, I bring strong collaboration and communication abilities, honed through leading group projects and managing a digital strategy where I grew engagement by 30%. My goal is to contribute to organizations by leveraging data to inform strategy and create measurable impact.
 
 ---
 
